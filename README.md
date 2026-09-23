@@ -1,0 +1,1 @@
+This is a practice project for learning Express.js, along with basic React integration and CRUD API operations.
